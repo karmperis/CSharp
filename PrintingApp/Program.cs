@@ -1,5 +1,9 @@
 ﻿namespace PrintingApp
 {
+	/// <summary>
+	/// Basic C# program that demonstrates how to print output to the console.
+	/// </summary>
+	
 	internal class Program
 	{
 		static void Main(string[] args)
