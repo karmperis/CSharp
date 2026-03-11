@@ -8,6 +8,7 @@
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
   <Project Path="ProductsVat/ProductsVat.csproj" />
+  <Project Path="SwapApp/SwapApp.csproj" Id="11393076-f29e-452d-994c-3b1cff91ebbc" />
   <Project Path="SwitchApp/SwitchApp.csproj" Id="09cfae26-2847-4ab0-8f8b-4110cf1a3f43" />
   <Project Path="Traveling/Traveling.csproj" Id="cf5b0e96-a43e-4e5a-a581-479c8d0b12c6" />
   <Project Path="WhileApp/WhileApp.csproj" Id="1c5b5733-696f-48d5-af27-66ebe6b61eb1" />
