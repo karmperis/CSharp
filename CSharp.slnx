@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="IfCases/IfCases.csproj" Id="0e14f8d0-1fb5-4e23-8fba-a65419664434" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
