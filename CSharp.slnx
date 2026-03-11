@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ArrayApp/ArrayApp.csproj" Id="3958a89b-d5b2-43b5-a62d-9a5a6d9a6b25" />
   <Project Path="CitiesFor/CitiesFor.csproj" Id="2b98bebf-0c0d-4380-afe0-3bcb94eb0b75" />
   <Project Path="DoWhileApp/DoWhileApp.csproj" Id="083d90f4-e47d-4c3c-9d93-9b9a0ac1da7d" />
   <Project Path="ExpressionBodyMethods/ExpressionBodyMethods.csproj" Id="9e67c38f-7d4d-456c-8979-094046ad2639" />
