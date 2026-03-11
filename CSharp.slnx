@@ -5,6 +5,7 @@
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="IfCases/IfCases.csproj" Id="0e14f8d0-1fb5-4e23-8fba-a65419664434" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
+  <Project Path="MethodsApp/MethodsApp.csproj" Id="4caa3e14-3cd7-4a47-95a7-928e22469bf0" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
   <Project Path="ProductsVat/ProductsVat.csproj" />
