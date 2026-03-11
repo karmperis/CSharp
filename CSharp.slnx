@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="DoWhileApp/DoWhileApp.csproj" Id="083d90f4-e47d-4c3c-9d93-9b9a0ac1da7d" />
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="a977a7e7-95d0-4d42-ba43-2095f0f2539b" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="IfCases/IfCases.csproj" Id="0e14f8d0-1fb5-4e23-8fba-a65419664434" />
